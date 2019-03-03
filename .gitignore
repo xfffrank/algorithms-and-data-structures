@@ -6,3 +6,7 @@
 
 # json
 *.json
+
+# c++ 
+# Executables
+jianzhi_offer/bin/
